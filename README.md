@@ -11,7 +11,6 @@
 
 # Datasets
 - [NYC TLC Taxi Dataset]( https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
-- [NYC Taxi Zone](https://data.cityofnewyork.us/Transportation/NYC-Taxi-Zones/d3c5-ddgc#Export)
 - [OSMR Project](http://project-osrm.org/ )
 - [NYC Weather Dataset 2018/2019](https://w2.weather.gov/climate/xmacis.php?wfo=okx)
 
