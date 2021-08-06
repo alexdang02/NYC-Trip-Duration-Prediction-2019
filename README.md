@@ -6,8 +6,9 @@
 - [Github Link](https://github.com/MAST30034-2021-S2/mast30034_2021_s2_project_1-alexdang02-1)
 
 # Dependencies
-- Language: _Python 3.8.8_
-- Packages / Libraries: check out _requirement.txt_ file
+- Language: _Python 3.7.11_
+- Packages / Libraries: check out _environment.txt_ or _environment.yaml_ file
+- OS: Ubuntu 20.04 LTS
 
 # Datasets
 - [NYC TLC Taxi Dataset]( https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
