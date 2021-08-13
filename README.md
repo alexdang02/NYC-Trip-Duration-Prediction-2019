@@ -15,4 +15,30 @@
 - [OSMR Project](http://project-osrm.org/ )
 - [NYC Weather Dataset 2018/2019](https://w2.weather.gov/climate/xmacis.php?wfo=okx)
 
-# Directory
+# How to run code
+- All code on this repository are Jupyter Notebook and mostly are run on conda environment. 
+- But for those on )__Models__ folder, I run them on Google Colab environment. Setting up are included on the notebooks already, other libraries are Colab defalt
+- I have uploaded Google Drive link and instruction on how to download my extracted dataset in __Data__ folder
+
+
+# Directory Structure
+├── code
+│   ├── EDA Visualisation
+│   └── Feature Engineering
+│   └── Fetch & Preprocess
+│   └── Models
+│   └── OSRM
+│   └── SparkSQL_Output
+├── Data
+│   ├── Metadata
+│   ├── Taxi Zones
+│   └── Trip
+│   └── Visualisation
+│   └── Taxi Zones
+│   └── Weather
+├── Plots
+├── deprecated
+├── environment
+├── .gitignore
+└── README.md
+```
