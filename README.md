@@ -18,6 +18,6 @@
 # How to run code
 - All code on this repository are Jupyter Notebook and mostly are run on conda environment. 
 - Before running my notebook, please update the root_folder variable in the very first cell of each notebook to the directory in your computer
-- But for those on __Models__ folder, I run them on Google Colab environment. Setting up are included on the notebooks already, other libraries are Colab defalt
-- I have uploaded Google Drive link and instruction on how to download my extracted dataset in __Data__ folder
+- But for those on __Models__ folder, I run them on Google Colab environment. Setting up are included on the notebooks already, other libraries are Colab default
+- Training dataset and Testing that I have sampled can be found [here](https://drive.google.com/drive/folders/1s3gYnaLbZb8aymbufzqkM1SHj2Jmxvb1?usp=sharing)
 
